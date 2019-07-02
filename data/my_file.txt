@@ -1,0 +1,3 @@
+I am a simple file with some text.
+I exist to be opened, read from,
+and closed again. That's it.

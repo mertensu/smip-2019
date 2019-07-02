@@ -1,0 +1,2 @@
+I am here to demonstrate 
+how to write strings to a file.
